@@ -9,4 +9,4 @@
 `somename` from cli will provide you with some free text
 
 ### Total cleanup
-`make clean-all` will remove any trace of the program from the machine
+`make clean-all` will remove the binary and the header file from system, as well as all but source files from the directory
